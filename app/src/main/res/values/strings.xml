@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mapbox Compose</string>
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">pk.eyJ1IjoiaXRoZWFtYyIsImEiOiJjbHoyYjl1djAybHFhMmtzbDY0MXpyM2Q2In0.q14svqePSY_pNmvGg-RC7Q</string>
+</resources>
